@@ -1,0 +1,134 @@
+OSINT RED TEAM LINKS
+
+# Web mirroring tools
+www.httrack.com
+softbytelabs.com/wp/blackwidow
+www.tenmax.com/teleport/pro
+www.gnu.org/software/wget
+spadixbd.com/backstreet
+
+
+# Email tracking tools
+ external email tracking tools
+   - www.emailtrackerpro.com
+   - www.mailtracking.com
+   - GetNotify
+   - ContactMonkey
+   - YesWare
+   - ReadNotify
+   - WhoReadMe
+   - Trace Email Analyzer
+   - Zendio
+
+
+# TraceRT GUI tools
+https://www.solarwinds.com/network-performance-monitor/use-cases/visual-traceroute-tool
+https://www.pathanalyzer.com/
+https://visualtraceroute.net/
+https://www.pingplotter.com/download/windows
+
+
+# Social Engineering
+https://www.maltego.com/downloads/
+http://spl0it.org/projects/sef.html
+https://pipl.com/
+https://peekyou.com/
+https://www.beenverified.com/
+
+
+# Packet Crafting Tools
+https://www.netscantools.com/
+https://ostinato.org/
+http://packeth.sourceforge.net/packeth/Home.html
+https://www.candelatech.com/
+
+
+# Ping Sweep Tools
+https://www.aldeid.com/wiki/Tor/Usage/Nmap-scan-through-tor
+Nmap
+Angry IP scanner
+SolarWinds engineer's toolset
+network ping
+OpUtils
+SuperScan
+Advanced IP Scanner
+http://www.ipuptime.net/Index.aspx
+
+
+#  Port Scanning Tools
+Nmap
+Hping
+advanced port scanner
+MegaPing
+Net Tools
+PRTG Network Monitor
+
+
+# Mobile Scanning Tools
+http://10base-t.com/site/
+https://www.fing.com/
+https://www.zimperium.com/
+PortDroid Network Analysis (googleplay)
+
+
+# Spoofing tools
+Hping
+Scapy
+Komodia Redirector
+Ettercap
+Cain
+https://www.spoofcard.com/anonymous-spoof-text
+
+# Proxy Tools
+https://proxyswitcher.com/
+http://proxychains.sourceforge.net/
+https://www.cyberghostvpn.com/en_US/
+http://proxifier.com/
+
+
+#  Mobile Anon and Evasion
+https://github.com/madeye/proxydroid
+https://icecoldapps.com/en/
+https://www.raynersw.com/
+https://guardianproject.info/
+https://psiphon.ca/
+https://shadowsocks.org/en/index.html
+
+# Anonymizers
+http://guardster.com/
+https://ultrasurf.us/
+
+
+# Vuln Scanners
+https://www.tenable.com/products/tenable-sc
+https://www.tenable.com/products/nessus
+https://www.gfi.com/
+http://openvas.com/
+
+
+# Arp Poison
+https://sectools.org/
+Cain and Abel
+ArpSpoof https://linux.die.net/man/8/arpspoof
+https://www.bettercap.org/
+
+
+#  Sniffers
+https://www.ettercap-project.org/
+https://www.colasoft.com/capsa/
+https://sniff-o-matic.soft112.com/
+https://www.riverbed.com/products/npm/wire-data-analyzer.html
+https://www.liveaction.com/
+
+
+#  HIDS
+Cybersafe
+Tripwire
+Norton Internet Security
+
+
+
+
+
+
+
